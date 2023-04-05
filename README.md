@@ -1,4 +1,6 @@
 # weather-app-with-react-native
+
+#'App.tsx' ve ./src/components/ içerisindeki 'FirstCard.js' dosyalarını kendi projenize aktararak projeyi kullanabilirisiniz.
  
 #Kullanılan Kütüphaneler:
 
