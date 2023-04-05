@@ -1,10 +1,14 @@
 # weather-app-with-react-native
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 #'App.tsx' ve ./src/components/ içerisindeki 'FirstCard.js' dosyalarını kendi projenize aktararak projeyi kullanabilirisiniz.
  
 #Kullanılan Kütüphaneler:
 
 -fetch (build-in)
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 Openweather.com API kullanılarak yapmış olduğum basit bir hava durumu uygulaması.
 
