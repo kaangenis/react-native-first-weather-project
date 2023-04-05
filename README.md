@@ -10,4 +10,6 @@ Openweather.com API kullanılarak yapmış olduğum basit bir hava durumu uygula
 
 Hava durumuna göre hava durumunu niteleyen iconlar değişir.
 
+Günün saatine göre Güneş ve Ay görselleri değişir.
+
 Uygulamanın çalışma videosu: https://youtube.com/shorts/VWaWlSgvGmk?feature=share
