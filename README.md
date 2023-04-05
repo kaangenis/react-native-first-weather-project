@@ -9,3 +9,5 @@ Openweather.com API kullanılarak yapmış olduğum basit bir hava durumu uygula
 Şehir, ülke, anlık sıcaklık değeri, hava durumu açıklaması, gün içi en düşük ve en yüksek sıcaklık verilerine ulaşabilirsiniz.
 
 Hava durumuna göre hava durumunu niteleyen iconlar değişir.
+
+Uygulamanın çalışma videosu: https://youtube.com/shorts/VWaWlSgvGmk?feature=share
