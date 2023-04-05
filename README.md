@@ -4,7 +4,7 @@
  
 #Kullanılan Kütüphaneler:
 
--axios
+-fetch (build-in)
 
 Openweather.com API kullanılarak yapmış olduğum basit bir hava durumu uygulaması.
 
