@@ -1,4 +1,4 @@
-import { Alert, Button, Image, SafeAreaView, Text, TextInput, View } from 'react-native'
+import { Alert, Button, SafeAreaView, TextInput, View } from 'react-native'
 import React, { Component } from 'react'
 import FirstCard from './src/components/FirstCard'
 
